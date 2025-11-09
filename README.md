@@ -1,10 +1,10 @@
-# Hadoop MapReduce Lab – Windows 10/11 + Eclipse
+# Hadoop MapReduce Lab – Windows11 + Eclipse
 
 **Tested:** November 9, 2025  
-**OS:** Windows 10 & 11  
-**IDE:** Eclipse 2023-09+  
+**OS:** Windows 11  
+**IDE:** Eclipse 2025-09+  
 
-> Original 2024 YouTube video (shared by lecturer) works on Linux but fails on Windows 10/11 due to path spaces, deprecated commands, and Eclipse package changes.
+> Original 2024 YouTube video (shared by lecturer) works on windows 10 but fails on Windows 11 due to path spaces, deprecated commands, and Eclipse package changes.
 
 ## What This Fixes
 | Issue | Original (Deprecated) | Fixed (Working) |
