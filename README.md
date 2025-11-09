@@ -26,9 +26,9 @@
 4. All commands use `hdfs dfs`, not `hadoop fs`
 
 ## Contact
-Stuck? Email: [your-email@example.com]  
+Stuck? Email: [udaykranth01@gmail.com] 
 Pull requests welcome.
 
 ---
 
-*Credit: Based on [YouTube Video Link](https://youtube.com/watch?v=xyz) – updated for 2025 systems.*
+*Credit: Based on [YouTube Video Link](https://youtu.be/htbYT7_TZKA) updated for 2025 systems.*
